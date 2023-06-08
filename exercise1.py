@@ -1,0 +1,10 @@
+print('HELLO,World!')
+person=input('whats your name?')
+print('Hello',person)
+age=input('how old are you?')
+print('i am ',age,'years old.')
+weight=input('what is your weight?')
+print('my weight is',weight,'kg')
+Height=input('what is your Height?')
+print('my Height is',Height,'cm')
+
